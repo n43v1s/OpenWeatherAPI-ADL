@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_GetCityLatitudeAndLongitude</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7715dc6a-ca11-4ded-8be9-930d227d2c28</testCaseGuid>
+</TestCaseEntity>
