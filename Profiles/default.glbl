@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'33e64d340d7a68188a4b306382aca98e'</initValue>
+      <initValue>''</initValue>
       <name>API_KEY</name>
       <protected>false</protected>
       <valueType>STRING</valueType>
